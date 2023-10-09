@@ -1,0 +1,7 @@
+name: PracticePlugin
+version: '${project.version}'
+main: me.cranfused.practiceplugin.PracticePlugin
+api-version: '1.20'
+commands:
+  jump:
+    description: Launches the Player In the Air
