@@ -25,7 +25,7 @@ PracticePlugin introduces a unique bow that shoots ender pearls. When the projec
 
 To install PracticePlugin on your server, follow these steps:
 
-1. Download the latest release from the [GitHub repository]([https://github.com/CranFused-Real/PracticePlugin]).
+1. Download the latest release from the https://github.com/CranFused-Real/PracticePlugin
 2. From 'Release' select the version you want to download.
 3. Place the downloaded JAR file into your server's `plugins` folder.
 4. Restart your server.
@@ -36,7 +36,7 @@ PracticePlugin is highly customizable. You can configure messages, permissions, 
 
 ## Support and Issues:
 
-If you encounter any issues or have questions about PracticePlugin, please visit our [GitHub repository]([https://github.com/CranFused-Real/PracticePlugin/issues]) and create a new issue.
+If you encounter any issues or have questions about PracticePlugin, please visit our https://github.com/CranFused-Real/PracticePlugin/issues and create a new issue.
 
 
 I hope you liked it! :D
