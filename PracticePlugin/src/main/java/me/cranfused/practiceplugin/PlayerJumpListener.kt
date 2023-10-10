@@ -15,7 +15,6 @@ class PlayerJumpListener : Listener {
 
     fun playerJumpEvent(event: PlayerJumpEvent) {
         val player = event.player
-
         player.sendMessage(Component.text("You Jumped!").color(TextColor.color(255, 255, 2)).decorate(TextDecoration.BOLD))
     }
 }
